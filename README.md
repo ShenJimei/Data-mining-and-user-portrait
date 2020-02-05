@@ -14,7 +14,7 @@ The data of the bank product recommendation competition are the bank product rec
 
 Data: kaggle competition download-c santander-product-recommendation
 
-3 Loan Default Forecast Competition Data "Kaggle Competition"
+Loan Default Forecast Competition Data "Kaggle Competition"
 
 Loan Default Forecast Competition Data, which is personal financial transaction data, has passed standardized and anonymous processing. Including nearly 800 attribute variables of 200,000 samples, each of which is independent of each other. Each sample is marked as defaulted or not defaulted, and if it is defaulted, the loss is marked at the same time. The loss is between 0 and 100, which means the loss rate of the loan. The loss rate of non-default is 0, and the default loss of personal loans is predicted and modeled through the attribute variable values of the samples. The data come from Imperial College London.
 
